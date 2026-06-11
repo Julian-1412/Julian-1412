@@ -44,7 +44,7 @@ I'm a Full Stack Developer focused on building reliable, scalable web applicatio
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/dvjulian-elejalde)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dvjulian-elejalde)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:julian.seg1412@gmail.com)
 
 <br/>
